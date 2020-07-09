@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Rotate Image",
+    "description": "...",
+    "permissions": ["menus", "activeTab"],
+    "version": "0.1",
+    "background": {
+        "scripts": [
+            "imageFlipper.js"
+        ]
+    }
+}
